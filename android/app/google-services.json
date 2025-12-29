@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "202875237802",
+    "project_id": "heart-pendant",
+    "storage_bucket": "heart-pendant.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202875237802:android:bb808a910f99e377c3a7d3",
+        "android_client_info": {
+          "package_name": "com.sayutel.heartpendant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBitVP8ywC41TxMT2WSOWDRdeGeaH_HpLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

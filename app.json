@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "heart-pendant",
+    "name": "Heart Pendant",
     "slug": "heart-pendant",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -19,7 +19,8 @@
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.sayutel.heartpendant"
     },
     "web": {
       "output": "static",
